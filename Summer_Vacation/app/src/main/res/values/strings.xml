@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Summer_Vacation</string>
+    <string name="error">Connectivity issue with firebase</string>
+    <string name="camera">Camera</string>
+    <string name="good">Good</string>
+    <string name="better">Better</string>
+    <string name="best">Best</string>
+    <string name="click_on_the_camera_button_and_show_your_fingers_as_below">Click on the camera button and show your fingers as below.</string>
+    <string name="instruction_for_rating_the_selected_location">Instruction for rating the selected location.</string>
+    <string name="ddmmyyyy">ddmmyyyy</string>
+    <string name="password">Password</string>
+    <string name="email_id">email ID</string>
+    <string name="summer_vaccation">Summer Vaccation</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="signup">SignUp</string>
+    <string name="username_or_loginid">Username or LoginID</string>
+</resources>
